@@ -40,9 +40,9 @@ class LoginScreen extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            "Welcome to Drive",
+            "Drive",
             style: TextStyle(
-                color: Colors.black, fontSize: 28, fontWeight: FontWeight.bold),
+                color: Colors.black, fontSize: 38, fontWeight: FontWeight.bold),
           ),
           SizedBox(
             height: 10,
@@ -50,7 +50,7 @@ class LoginScreen extends StatelessWidget {
           Text(
             "Login to Take a ride",
             style: TextStyle(
-                color: Colors.black, fontSize: 45, fontWeight: FontWeight.bold),
+                color: Colors.black, fontSize: 30, fontWeight: FontWeight.bold),
           ),
           Padding(
             padding: const EdgeInsets.all(15.0),
