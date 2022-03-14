@@ -48,7 +48,7 @@ class LoginScreen extends StatelessWidget {
             height: 10,
           ),
           Text(
-            "Login to Take a ride",
+            "Login to Take as ride",
             style: TextStyle(
                 color: Colors.black, fontSize: 30, fontWeight: FontWeight.bold),
           ),
